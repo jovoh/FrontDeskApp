@@ -1,0 +1,10 @@
+C:\Users\jovoh\source\repos\FrontDeskApp\bin\Debug\FrontDeskApp.exe.config
+C:\Users\jovoh\source\repos\FrontDeskApp\bin\Debug\FrontDeskApp.exe
+C:\Users\jovoh\source\repos\FrontDeskApp\bin\Debug\FrontDeskApp.pdb
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.Form1.resources
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.Properties.Resources.resources
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.csproj.GenerateResource.cache
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.exe
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.pdb
+C:\Users\jovoh\source\repos\FrontDeskApp\obj\Debug\FrontDeskApp.csprojAssemblyReference.cache
