@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace FrontDeskApp
-{
+{//
     public partial class Form1 : Form
     {
         const int maxsmall = 45;
